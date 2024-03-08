@@ -16,6 +16,10 @@ Bem-vindo ao meu cantinho no GitHub! Aqui você vai encontrar um pouco sobre mim
 - 🌐 Trabalhando com **API REST** e **JSON**, construindo APIs robustas e interconectadas.
 - 📊 Aprofundando meus conhecimentos em **React.js**!
 
+## Projeto principal
+
+- 🚀 [BackEnd-PDV](https://github.com/frankiwillian/pdv-desafiofinal) - Realizado como projeto final do curso de desenvolvimento de software back end pela [Cubos Academy](https://cubos.academy/)
+
 ## Projetos em andamento
 
 - 🚀 [Primeiro projeto fullstack](https://github.com/frankiwillian/todolist-fullstack)
