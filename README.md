@@ -14,11 +14,11 @@ Bem-vindo ao meu cantinho no GitHub! Aqui você vai encontrar um pouco sobre mim
 
 - 🌐 Foco especial em **Node.js**, criando aplicativos e serviços backend para aplicações web.
 - 🌐 Trabalhando com **API REST** e **JSON**, construindo APIs robustas e interconectadas.
-- 📊 Aprofundando meus conhecimentos em **banco de dados SQL**!
+- 📊 Aprofundando meus conhecimentos em **React.js**!
 
 ## Projetos em andamento
 
-- 🚀 Curso de desenvolvimento Back-End, na [Cubos Academy](https://cubos.academy/)
+- 🚀 [Primeiro projeto fullstack](https://github.com/frankiwillian/todolist-fullstack)
 
 ## Vamos conversar?
 
@@ -33,4 +33,3 @@ Sinta-se à vontade para seguir-me aqui no GitHub e ficar por dentro das minhas 
 
 Vamos codar juntos e fazer coisas incríveis! 🚀🤖😎
 
-*Lembre-se: No mundo da programação, o céu não é o limite, é apenas o começo!*
