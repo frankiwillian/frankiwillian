@@ -4,7 +4,7 @@ Bem-vindo ao meu cantinho no GitHub! Aqui você vai encontrar um pouco sobre mim
 
 ## Quem sou eu?
 
-- 👨‍💻 Um apaixonado por vendas que decidiu fazer uma transição de carreira para o mundo da programação aos 27 anos.
+- 👨‍💻 Um ex-vendedor apaixonado por tecnologia que decidiu fazer uma transição de carreira para o mundo da programação aos 27 anos.
 - 🌆 Moro em Curitiba, PR, Brasil.
 - 🚀 Minha jornada profissional inclui experiência como SDR (Sales Development Representative), Inteligência Comercial e Gestor de Tráfego, mergulhando nas águas profundas do Meta Ads e Google Ads.
 - 📚 Atualmente, estou me aprimorando em FrontEnd React.
