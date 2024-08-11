@@ -8,13 +8,13 @@ Bem-vindo ao meu cantinho no GitHub! Aqui você vai encontrar um pouco sobre mim
 - 🌆 Moro em Curitiba, PR, Brasil.
 - 🚀 Minha jornada profissional inclui experiência como SDR (Sales Development Representative), Inteligência Comercial e Gestor de Tráfego, mergulhando nas águas profundas do Meta Ads e Google Ads.
 - 📚 Atualmente, estou me aprimorando em FrontEnd React.
-- 💡 Linguagens que eu domino: VBA, Python e agora, é claro, JavaScript!
+- 💡 Linguagens que eu domino: VBA, Python, JavaScript e atualmente trabalho como dev back end junior usando C# .NET!
 
 ## O que estou fazendo?
 
-- 🌐 Foco especial em **Node.js**, criando aplicativos e serviços backend para aplicações web.
-- 🌐 Trabalhando com **API REST** e **JSON**, construindo APIs robustas e interconectadas.
-- 📊 Aprofundando meus conhecimentos em **React.js**!
+- 🌐 Foco especial em **.NET**, criando aplicativos e serviços backend para aplicações web.
+- 🌐 Trabalhando com **Entity Framework**, construindo APIs robustas e interconectadas.
+- 📊 Aprofundando meus conhecimentos em **React.js** e **TypeScript**!
 
 ## Projeto principal
 
